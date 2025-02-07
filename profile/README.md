@@ -1,12 +1,46 @@
-## Hi there 👋
+<div align='center'>
+<h1>🌟 Welcome to My Archive of Repositories 🌟</h1>
+<p>A list of my old repositories that are very unlikely to ever be updated again.</p>
+<p>⚠️ Warning! These repositories were not written professionally and might hurt your eyes while reading the code.</p>
+<p>That said, they can still be useful! 🚀</p>
+</div>
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 📜 Repository List
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 📂 [Advanced-Discord-Mirror](https://github.com/LogiqueArchive/Advanced-Discord-Mirror)
+- **Description**: Discord Mirror, An easy way to move messages from a channel to another channel using an Account-Token and a Discord Webhook
+- **Created At**: 2023-07-20 09:03:49 UTC
+- **Stars**: ⭐ 4
+- **Forks**: 🍴 0
+- **Top Language**: JavaScript
+
+### 📂 [AntiMahan](https://github.com/LogiqueArchive/AntiMahan)
+- **Description**: یه پروژه برای جلوگیری کردن از کار هایی که ماهان انجام میده یا احتمال داره در آینده انجام بده
+- **Created At**: 2025-01-28 10:35:22 UTC
+- **Stars**: ⭐ 0
+- **Forks**: 🍴 0
+- **Top Language**: Python
+
+### 📂 [Atomic](https://github.com/LogiqueArchive/Atomic)
+- **Description**: 🕶 ATOMIC Tool is (not) a professional attacking tool that support abnormal options.
+- **Created At**: 2023-09-27 16:01:53 UTC
+- **Stars**: ⭐ 42
+- **Forks**: 🍴 21
+- **Top Language**: Python
+
+### 📂 [Discord-Nuker](https://github.com/LogiqueArchive/Discord-Nuker)
+- **Description**: Fast Discord Nuker written in python 
+- **Created At**: 2024-01-03 08:57:10 UTC
+- **Stars**: ⭐ 22
+- **Forks**: 🍴 9
+- **Top Language**: Python
+
+### 📂 [DM-Spammer-Bot](https://github.com/LogiqueArchive/DM-Spammer-Bot)
+- **Description**: A simple discord bot that helps you send a lot of direct messages to someone
+- **Created At**: 2024-07-16 10:50:55 UTC
+- **Stars**: ⭐ 5
+- **Forks**: 🍴 3
+- **Top Language**: Python
+
