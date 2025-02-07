@@ -61,8 +61,10 @@ async def main():
     repos = await fetch_repos(username)
     text = sort_repos(repos)
 
-    with open("README.md", "w") as file:
+    with open("README.md", "w") as file \
+       open("profile/README.md", "w") as fp:
         file.write(text)
+        fp.write(text)
 
 
 if __name__ == '__main__':
